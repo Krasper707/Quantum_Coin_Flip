@@ -14,5 +14,6 @@ In classical computing, a coin flip is a binary event with two possible outcomes
 
 - Built using Qiskit and Matplotlib.
 
+[Python Notebook](https://nbviewer.org/github/Krasper707/Quantum_Coin_Flip/blob/main/Quantum_Coin_Flip.ipynb)
 
 
